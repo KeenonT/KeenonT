@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Hi there 👋 I'm Keenon. Seasoned tech enthusiast and <a href="https://linkedin.com/in/TBD"> IT Professional</a></h1>
+<h1>Hi there, I'm Keenon👋 Seasoned tech enthusiast and <a href="https://linkedin.com/in/TBD"> IT Professional</a></h1>
 I am driven by a relentless pursuit of innovation and with a sharp problem-solving acumen, I strive to work smarter, not harder, to achieve exceptional results. While embracing that mantra of efficiency, I am dedicated to pushing boundaries and leveraging cutting-edge solutions in the ever-evolving technological landscape.
 
 <h2>⚡Currently working on:</h2> 
