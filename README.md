@@ -29,13 +29,14 @@ I am driven by a relentless pursuit of innovation and with a sharp problem-solvi
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- [DNS: Building an Intuition](https://github.com/KeenonT/IntroDNS)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/KeenonT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/KeenonT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KeenonT/ticket-lifecycle)
-  - [DNS: Building an Intuition](https://github.com/KeenonT/IntroDNS)
+  
 
-https://github.com/KeenonT/IntroDNS/blob/main/README.md
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KeenonT/On-premisesADAzureVMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KeenonT/azure-network-protocols)
