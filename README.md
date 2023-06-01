@@ -38,6 +38,7 @@ I am driven by a relentless pursuit of innovation and with a sharp problem-solvi
   
 
 - <b>Microsoft Azure</b>
+  - [Getting Started](https://github.com/KeenonT/GettingStarted/blob/main/README.md)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KeenonT/On-premisesADAzureVMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KeenonT/azure-network-protocols)
 
