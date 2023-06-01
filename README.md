@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Keenon, a seasoned tech enthusiast and eager IT professional with a hunger for innovation and knack for problem-solving. Work smarter, not harder.
 <!--
 **KeenonT/KeenonT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
