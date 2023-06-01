@@ -21,9 +21,11 @@ I am driven by a relentless pursuit of innovation and with a sharp problem-solvi
 <h2>⚡Currently working on:</h2> 
 🔭 Cloud Administration and implementation within the Azure Platform
 
- 🌱 Perfecting my skills in various Linux distributions
- 
-  🤔 Labbing in Cloud, simulating real world professional IT/Security environments
+🌱 Perfecting my skills in various Linux distributions                                                                                                                                                                                                                                                                                  
+💬Labbing in Cloud, simulating real world professional IT/Security environments
+
+
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
