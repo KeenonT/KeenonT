@@ -29,7 +29,7 @@ I am driven by a relentless pursuit of innovation and with a sharp problem-solvi
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- [Introduction to Cloud Computing](https://github.com/KeenonT/Introduction-to-Networking)
+- [Introduction to Cloud Computing](https://github.com/KeenonT/Introduction-to-Cloud-Computing)
 - [CCNA: Introduction to Networking](https://github.com/KeenonT/Introduction-to-Networking)
 - [DNS: Building an Intuition](https://github.com/KeenonT/IntroDNS)
 
