@@ -28,7 +28,7 @@ I am driven by a relentless pursuit of innovation and with a sharp problem-solvi
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
+- CCNA: Introduction to networking](https://github.com/KeenonT/Introduction-to-Networking)
 - [DNS: Building an Intuition](https://github.com/KeenonT/IntroDNS)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
