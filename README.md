@@ -16,22 +16,26 @@ Here are some ideas to get you started:
 
 
 <h1>Hi there, I'm Keenon👋 Seasoned tech enthusiast, aspiring Cloud Admin and <a href="https://linkedin.com/in/TBD"> IT Professional</a></h1>
-I am driven by a relentless pursuit of innovation and with a sharp problem-solving acumen, I strive to work smarter, not harder, to achieve exceptional results. While embracing that mantra of efficiency, I am dedicated to pushing boundaries and leveraging cutting-edge solutions in the ever-evolving technological landscape.
+I am driven by a relentless pursuit of innovation and with a sharp problem-solving acumen, I strive to work smarter, not harder, to achieve exceptional results. While embracing that mantra of efficiency, I am dedicated to pushing boundaries and leveraging cutting 
+solutions in the ever-evolving technological landscape.
 
-<h2>⚡Currently working on:</h2> 
-🔭 Cloud Administration and implementation within the Azure Platform
+-<h2>⚡Currently working on:</h2> 
+    
+     🔭 Cloud Administration and implementation within the Azure Platform
+    
+     🌱 Perfecting my skills in various Linux distributions
+     
+     💬 Labbing in Cloud, simulating real world professional IT/Security environments
 
-🌱 Perfecting my skills in various Linux distributions                                                                                                                                                                                                                                                                                  
-💬Labbing in Cloud, simulating real world professional IT/Security environments
 
 
+- <b>👨‍💻 Information Technology Projects</b>
+  - [Introduction to Cloud Computing](https://github.com/KeenonT/Introduction-to-Cloud-Computing)
+  - [CCNA: Introduction to Networking](https://github.com/KeenonT/Introduction-to-Networking)
+  - [Introduction To Bash](https://github.com/KeenonT/Intro-To-Bash)
+  - [DNS: Building an Intuition](https://github.com/KeenonT/IntroDNS)
+  
 
-
-<h2>👨‍💻 Information Technology Projects:</h2>
-
-- [Introduction to Cloud Computing](https://github.com/KeenonT/Introduction-to-Cloud-Computing)
-- [CCNA: Introduction to Networking](https://github.com/KeenonT/Introduction-to-Networking)
-- [DNS: Building an Intuition](https://github.com/KeenonT/IntroDNS)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/KeenonT/osticket-prereqs)
