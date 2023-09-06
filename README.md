@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am driven by a relentless pursuit of innovation and with a sharp problem-solving acumen, I strive to work smarter, not harder, to achieve exceptional results. While embracing that mantra of efficiency, I am dedicated to pushing boundaries and leveraging cutting 
 solutions in the ever-evolving technological landscape.
 
--<h2>⚡Currently working on:</h2> 
+<h2>⚡Currently working on:</h2> 
     
      🔭 Cloud Administration and implementation within the Azure Platform
     
